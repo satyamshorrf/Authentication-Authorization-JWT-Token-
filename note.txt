@@ -1,0 +1,8 @@
+create user account
+     moongose
+     schema
+     model
+     usercreate -> passwod -> hash
+     jwt token -> cokie
+
+     login -> token -> decrypt -> email
